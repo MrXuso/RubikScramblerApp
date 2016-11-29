@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rubik Scrambler</string>
+    <string name="action_about">About</string>
+    <string name="press_to_new">To generate a new scramble, press the pink button</string>
+    <string name="about"><i><b>Rubik Scrambler</b></i> is an app that generates a 25 steps movement algorithm to scramble the 3x3 Rubik\'s Cube. \n\nYou can fork my algorithm at GitHub:</string>
+    <string name="fork_github" translatable="false">https://github.com/MrXuso/Rubik-Scrambler-Algorithm-Generator</string>
+</resources>

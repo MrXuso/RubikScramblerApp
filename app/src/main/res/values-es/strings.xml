@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rubik Scrambler</string>
+    <string name="action_about">Acerca de</string>
+    <string name="press_to_new">Para crear un nuevo algoritmo, pulsa el botón rosa</string>
+    <string name="about"><i><b>Rubik Scrambler</b></i> es una app que genera un algoritmo de 25 pasos para desmontar el Cubo de Rubik 3x3. \n\nPuedes hacer fork de mi algoritmo en GitHub:</string>
+</resources>
